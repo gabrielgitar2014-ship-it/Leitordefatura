@@ -1,0 +1,7 @@
+flask
+flask-cors
+pdfplumber
+pdf2image
+google-genai
+gunicorn
+werkzeug
